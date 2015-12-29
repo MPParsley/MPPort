@@ -1,1 +1,4 @@
 # MPPort
+
+## Installation
+composer install
