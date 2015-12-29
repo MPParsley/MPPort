@@ -13,7 +13,7 @@ sudo apt-get install rabbitmq-server -y
 sudo service rabbitmq-server start
 sudo rabbitmq-plugins enable rabbitmq_management
 sudo service rabbitmq-server restart
-```b
+```
 
 ### PHP
 composer install
